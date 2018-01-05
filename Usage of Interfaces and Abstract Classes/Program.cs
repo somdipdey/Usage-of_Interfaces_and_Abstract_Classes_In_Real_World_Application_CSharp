@@ -8,7 +8,8 @@ namespace Usage_of_Interfaces_and_Abstract_Classes
 {
     // Copyright @ Somdip Dey, 2018
     // Program created to explain the usage of Interface 
-    // and Abstract Class in a real world application scenario
+    // and Abstract Class in a real world application scenario.
+    // Article Url: https://social.technet.microsoft.com/wiki/contents/articles/51025.c-usage-of-interfaces-and-abstract-classes-in-real-world-and-difference-between-the-two.aspx
 
     class Program
     {
