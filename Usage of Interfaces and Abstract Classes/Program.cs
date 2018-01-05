@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Usage_of_Interfaces_and_Abstract_Classes
 {
+    // Copyright @ Somdip Dey, 2018
+    // Program created to explain the usage of Interface 
+    // and Abstract Class in a real world application scenario
+
     class Program
     {
         static void Main(string[] args)
